@@ -76,6 +76,8 @@ width: 33.33333%;
     text-decoration: none;
     border: none;
     cursor: pointer;
+    appearance:none ;
+    -webkit-appearance: none;
 }
 .btn:hover{
     color: #000;
